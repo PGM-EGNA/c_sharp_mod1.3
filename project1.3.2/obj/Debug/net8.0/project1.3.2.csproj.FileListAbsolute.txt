@@ -1,0 +1,14 @@
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/bin/Debug/net8.0/project1.3.2
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/bin/Debug/net8.0/project1.3.2.deps.json
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/bin/Debug/net8.0/project1.3.2.runtimeconfig.json
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/bin/Debug/net8.0/project1.3.2.dll
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/bin/Debug/net8.0/project1.3.2.pdb
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/project1.3.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/project1.3.2.AssemblyInfoInputs.cache
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/project1.3.2.AssemblyInfo.cs
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/project1.3.2.csproj.CoreCompileInputs.cache
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/project1.3.2.dll
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/refint/project1.3.2.dll
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/project1.3.2.pdb
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/project1.3.2.genruntimeconfig.cache
+/Users/mannyg/Desktop/csharp_projects/project1.3.2/obj/Debug/net8.0/ref/project1.3.2.dll
